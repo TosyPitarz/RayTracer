@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ray", "ray.vcxproj", "{926AD94D-0982-4230-9EF5-9794144282D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926AD94D-0982-4230-9EF5-9794144282D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{926AD94D-0982-4230-9EF5-9794144282D1}.Debug|Win32.Build.0 = Debug|Win32
+		{926AD94D-0982-4230-9EF5-9794144282D1}.Release|Win32.ActiveCfg = Release|Win32
+		{926AD94D-0982-4230-9EF5-9794144282D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2695BE91-3D8B-4F0C-A4C7-92E31B005ECE}
+	EndGlobalSection
+EndGlobal
